@@ -1,2 +1,2 @@
 # ThinkBayes
-Exercise problem solutions of bool "Think Bayes"
+Exercise problem solutions of book "Think Bayes"
